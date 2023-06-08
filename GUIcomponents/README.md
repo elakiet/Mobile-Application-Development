@@ -118,7 +118,7 @@ activity_main.xml
 </LinearLayout>
 
 ActivityMain.java
-
+```
 package com.example.gui;
 
 import androidx.appcompat.app.AppCompatActivity;
@@ -255,6 +255,7 @@ public class MainActivity extends AppCompatActivity {
         });
     }
 }
+```
 
 
 ## OUTPUT
