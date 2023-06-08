@@ -37,13 +37,21 @@ Step 8: Verify that the application launches successfully and displays the messa
 activity_main.xml
 
 <?xml version="1.0" encoding="utf-8"?>
+
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              
     xmlns:app="http://schemas.android.com/apk/res-auto"
+              
     xmlns:tools="http://schemas.android.com/tools"
+              
     android:layout_width="match_parent"
+              
     android:layout_height="match_parent"
+              
     android:orientation="vertical"
+              
     tools:context=".MainActivity">
+    
     <TextView
         android:id="@+id/textView"
         android:layout_width="match_parent"
