@@ -35,21 +35,13 @@ Step 8: Verify that the application launches successfully and displays the messa
 ## PROGRAM:
 
 activity_main.xml
-
 <?xml version="1.0" encoding="utf-8"?>
-
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
-              
     xmlns:app="http://schemas.android.com/apk/res-auto"
-              
     xmlns:tools="http://schemas.android.com/tools"
-              
     android:layout_width="match_parent"
-              
     android:layout_height="match_parent"
-              
     android:orientation="vertical"
-              
     tools:context=".MainActivity">
     
     <TextView
@@ -128,6 +120,7 @@ activity_main.xml
 ActivityMain.java
 
 package com.example.gui;
+
 
 import androidx.appcompat.app.AppCompatActivity;
 import android.graphics.Color;
