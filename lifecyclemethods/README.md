@@ -96,6 +96,10 @@ public class MainActivity extends AppCompatActivity {
 
 ## OUTPUT
 
+![image](https://github.com/elakiet/Mobile-Application-Development/assets/133135881/8f308746-eea8-4d24-94d4-6590b29d7cf7)
+![image](https://github.com/elakiet/Mobile-Application-Development/assets/133135881/cf82ad1e-2b3d-405d-97d3-46f230fa18ea)
+![image](https://github.com/elakiet/Mobile-Application-Development/assets/133135881/0753096f-e6d0-4e36-bef2-37fee5c97c3c)
+![image](https://github.com/elakiet/Mobile-Application-Development/assets/133135881/aa219bf6-40fe-46e7-95ad-ba79eb5b4b48)
 
 
 
